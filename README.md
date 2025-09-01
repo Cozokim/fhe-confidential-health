@@ -38,7 +38,7 @@ we use a **minimal surrogate** here to demonstrate **homomorphic computation and
 
 ### Install
 ```bash
-git clone https://github.com/yourusername/fhe-confidential-health.git
+git clone https://github.com/cozokim/fhe-confidential-health.git
 cd fhe-confidential-health
 npm install
 ```
