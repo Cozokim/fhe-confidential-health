@@ -94,7 +94,6 @@ References
 
     [Zama FHEVM](https://docs.zama.ai/homepage/)
 
-Framingham Risk Score (clinical background)
 License
 
 This project is licensed under the BSD-3-Clause-Clear License – see the LICENSE file for details.
