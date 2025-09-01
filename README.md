@@ -29,7 +29,7 @@ we use a **minimal surrogate** here to demonstrate **homomorphic computation and
 
 ---
 
-## ⚙️ Setup & Install
+## Setup & Install
 
 ### Requirements
 - Node.js 20+
@@ -92,7 +92,7 @@ How to Use
 
 References
 
-    Zama FHEVM
+    [Zama FHEVM](https://docs.zama.ai/homepage/)
 
 Framingham Risk Score (clinical background)
 License
