@@ -2,7 +2,7 @@ import { execSync } from "child_process";
 import * as fs from "fs";
 import * as path from "path";
 
-const CONTRACT_NAME = "FHECounter";
+const CONTRACT_NAME = "PrivateHealthScore";
 
 // <root>/packages/fhevm-hardhat-template
 const rel = "../fhevm-hardhat-template";
